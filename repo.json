@@ -3,6 +3,6 @@
     "description": "NguonC và VSMov providers cho CloudStream",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/OWNER/REPOSITORY/builds/plugins.json"
+      "https://raw.githubusercontent.com/dinhgia2106/CloudSteam_plugin/builds/plugins.json"
     ]
 }

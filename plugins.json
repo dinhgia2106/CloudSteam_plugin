@@ -1,0 +1,46 @@
+[
+    {
+        "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
+        "fileHash": "sha256-f5d9de6582c959d40e188e371e153fce3e8908b96b46ced282e0123ae6967d77",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/dinhgia2106/CloudSteam_plugin",
+        "fileSize": 43138,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "CloudSteam_plugin"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "NguonC",
+        "description": "NguonC - phim Vietsub, thuy\u1ebft minh v\u00e0 l\u1ed3ng ti\u1ebfng",
+        "url": "https://raw.githubusercontent.com/dinhgia2106/CloudSteam_plugin/builds/NguonC.cs3",
+        "name": "NguonC"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vsmov.com&sz=%size%",
+        "fileHash": "sha256-1f7720cef75b80d46941defcc18327643c66be2224b835e12915e6d2be4b0479",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/dinhgia2106/CloudSteam_plugin",
+        "fileSize": 33257,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "CloudSteam_plugin"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "VSMov",
+        "description": "VSMov - phim Vietsub, thuy\u1ebft minh v\u00e0 l\u1ed3ng ti\u1ebfng",
+        "url": "https://raw.githubusercontent.com/dinhgia2106/CloudSteam_plugin/builds/VSMov.cs3",
+        "name": "VSMov"
+    }
+]

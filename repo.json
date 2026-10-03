@@ -1,0 +1,8 @@
+{
+    "name": "Vietnamese CloudStream providers",
+    "description": "NguonC và VSMov providers cho CloudStream",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/OWNER/REPOSITORY/builds/plugins.json"
+    ]
+}
